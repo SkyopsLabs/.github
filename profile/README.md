@@ -1,4 +1,4 @@
-![image](https://skyopslabs.ai/images/covergit.png)
+![image](https://skyopslabs.ai/images/Skyops-1860-x-1037-px.png)
 ## About Skyops
 
 At [Skyops](https://skyopslabs.ai), we're transforming this landscape by creating the first decentralized GPU computing network. 
