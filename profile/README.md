@@ -16,4 +16,4 @@ By leveraging a decentralized GPU network, unused computing power worldwide is t
 - Blog: https://skyopslabs.medium.com
 - Links: https://links.skyopslabs.ai
 
-Salable. Efficient. Unstoppable.
+Scalable. Efficient. Unstoppable.
