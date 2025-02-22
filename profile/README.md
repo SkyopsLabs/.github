@@ -15,5 +15,8 @@ By leveraging a decentralized GPU network, unused computing power worldwide is t
 - Documentation: https://docs.skyopslabs.ai
 - Links: https://links.skyopslabs.ai
 - Litepaper: https://litepaper.skyopslabs.ai/v1
+- Tokenomics: https://docs.skyopslabs.ai/tokenomics
+- Skyops App: https://skyopslabs.ai
+- $SKYOPS Contract Address: https://etherscan.io
 
 Scalable. Efficient. Unstoppable.
