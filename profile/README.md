@@ -1,4 +1,4 @@
-![image](https://skyopslabs.ai/images/skyops1860px.png)
+![image](https://skyopslabs.ai/images/skyops.png)
 ## Decentralized AI supercomputer without borders.
 
 [Skyops](https://skyopslabs.ai) is a decentralized AI computing platform that leverages unused GPU power worldwide to significantly reduce AI development costs while providing GPU owners with a way to earn from their idle hardware.
@@ -19,5 +19,6 @@ By leveraging a decentralized GPU network, unused computing power worldwide is t
 - Skyops App: https://skyopslabs.ai
 - $SKYOPS Contract Address: https://etherscan.io
 - Service Status: https://status.skyopslabs.ai
+- Brand Kit: https://docs.skyopslabs.ai/essentials/brand-kit
 
 Scalable. Efficient. Unstoppable.
