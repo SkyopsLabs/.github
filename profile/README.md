@@ -21,5 +21,6 @@ By leveraging a decentralized GPU network, unused computing power worldwide is t
 - $SKYOPS Contract Address: 0x42168A285252BD00E4930e2F9dC01D496b14c90A
 - Service Status: https://status.skyopslabs.ai
 - Brand Kit: https://docs.skyopslabs.ai/essentials/brand-kit
+- Audit: https://app.solidproof.io/projects/skyops
 
 Scalable. Efficient. Unstoppable.
