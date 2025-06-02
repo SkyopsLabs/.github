@@ -1,4 +1,4 @@
-![image](https://skyopslabs.ai/images/skyops.png)
+![image](https://github.com/SkyopsLabs/.github/blob/main/social-og-v2.png)
 ## Decentralized AI supercomputer without borders.
 
 [Skyops](https://skyopslabs.ai) is a decentralized AI computing platform that leverages unused GPU power worldwide to significantly reduce AI development costs while providing GPU owners with a way to earn from their idle hardware.
